@@ -13,6 +13,25 @@ Steps:
 	> --maximize Gitbash and check file1.text--
 	> cd demo2609
 	> dir
+	> git init
+	> git status
+	> git add .
+	> git status
+	> git file2.txt
+	> git config --global user.name harryongit
+	> git config --global user.email harryshastri21@gmail.com
+	> git commit -m "initial commit in file1.txt file"
 	
 Git: It is version control software, installed locally.
 Github: It is also version control software, available globally.
+
+Commands:
+git init: It is used to initilize the git repository.
+git status: It shows the status of the file into repository. 
+If the file is not found or not load then it shows the error in red color.
+We have add the file into the staging (loading) area of the git repository by using the command: git add .
+
+To add the indiviual file, command: git add file_name
+E.g: git add file2.txt
+
+When file is not in the staging area then it shows in the red color. Otherwise it shows in the red color. (untracked files)
