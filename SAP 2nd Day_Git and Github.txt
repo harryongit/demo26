@@ -1,4 +1,4 @@
-SAP 2nd Day- Git and Github
+SAP 2nd Day- Git and Github, Linear Regression
 
 Steps:
 1. Open the gitbash portal and type command:
@@ -38,3 +38,7 @@ To add the indiviual file, command: git add file_name
 E.g: git add file2.txt
 
 When file is not in the staging area then it shows in the red color. Otherwise it shows in the red color. (untracked files)
+
+__________________________________________________________________________________________________________________________________
+Linear Regression:
+:- Numpy
