@@ -1,0 +1,57 @@
+SAP 1st Day- Data Analytics and Machine Learning:
+Opportunities in AI:
+
+-> Supervised Machine Learning:(Labelled Training) (labelling the things)
+-> Unsupervised Machine Learning:(Unlabelled Training) 
+-> Reinforcement Learning (Gaming and Robotics)
+
+
+> IR 5.0: We use all technologies from IR 4.0 but here we receive human feedback.
+
+> LLM: Large Language Model is used to develop generative AI.
+
+Generative AI:
+->Instruct GPT (generative pretrained transformer)
+ 
+> Chatgpt
+> Google Bard: PaLM Architecture used 
+
+
+
+
+
+> Supervised Learning: Data will be labelled
+-->Classification (Categorized): Categorical problems
+-->Regression (Numerical): Numerical values are predicted
+
+> Unsupervised Learning: Data will be not labelled
+--> Clustering
+--> Dimensionality Reduction
+
+
+AutoAI: AutoML
+
+> When same algorithm is used for classification problem statement then it is called Classifier, when it is used for regression problem statement then it is called regressor.
+
+
+Model  Evaluation:
+Generalised: Model is behaving like same way at the production site like it is tested it.
+Under-Fitting: Model is giving low performance.
+Over-fitting: Model is giving high performance.
+
+Objective of ML Engineer:
+Is to develop the generalized model.
+
+
+Instruct GPT vs Chatgpt ?
+InstructGPT is designed for natural language processing tasks in specific domains, while ChatGPT is designed for conversational contexts.
+InstructGPT is trained on a massive amount of diverse data, while ChatGPT is trained on conversational data.
+
+
+
+
+
+
+
+
+

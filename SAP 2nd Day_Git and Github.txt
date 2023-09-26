@@ -1,0 +1,18 @@
+SAP 2nd Day- Git and Github
+
+Steps:
+1. Open the gitbash portal and type command:
+	> dir
+	> cd Desktop
+	> dir
+	> clear
+	> mkdir demo
+	> dir
+	> --goto the desktop folder--
+	> --create file1.txt into demo2609 folder--
+	> --maximize Gitbash and check file1.text--
+	> cd demo2609
+	> dir
+	
+Git: It is version control software, installed locally.
+Github: It is also version control software, available globally.
