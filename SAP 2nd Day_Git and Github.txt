@@ -20,6 +20,8 @@ Steps:
 	> git file2.txt
 	> git config --global user.name harryongit
 	> git config --global user.email harryshastri21@gmail.com
+	> --"https://github.com/harryongit/demo26.git"--
+	> git remote add origin https://github.com/harryongit/demo26.git
 	> git commit -m "initial commit in file1.txt file"
 	
 Git: It is version control software, installed locally.
