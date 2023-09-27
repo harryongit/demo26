@@ -1,0 +1,5 @@
+SAP Day 3: Linear Regression & Logistic Regression & K-Nearest Neigbours & Decision Tree
+	> Logistic Regression: https://github.com/harryongit/demo26/blob/main/logisticregression.ipynb
+	> K-Nearest Neighbours: https://github.com/harryongit/demo26/blob/main/knn.ipynb
+	> Decision Tree: 
+
