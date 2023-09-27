@@ -44,3 +44,6 @@ ________________________________________________________________________________
 :- Pandas https://github.com/harryongit/demo26/blob/main/pandas_SAP.ipynb
 __________________________________________________________________________________________________________________________________
 Linear Regression:
+This two example were taken to understand the concept of Linear Regression and some other needed points were covered on 3rd day of workshop.
+https://github.com/harryongit/demo26/blob/main/fuelconsumption.ipynb
+https://github.com/harryongit/demo26/blob/main/EDA_on_IMDB_Dataset.ipynb
