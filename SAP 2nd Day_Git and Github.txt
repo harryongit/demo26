@@ -40,7 +40,7 @@ E.g: git add file2.txt
 When file is not in the staging area then it shows in the red color. Otherwise it shows in the red color. (untracked files)
 
 __________________________________________________________________________________________________________________________________
-:- Numpy 
-:- Pandas
+:- Numpy https://github.com/harryongit/demo26/blob/main/numpy_SAP.ipynb
+:- Pandas https://github.com/harryongit/demo26/blob/main/pandas_SAP.ipynb
 __________________________________________________________________________________________________________________________________
 Linear Regression:
